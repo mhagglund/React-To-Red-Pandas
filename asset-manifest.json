@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-To-Red-Pandas/static/css/main.3e5511b3.css",
-    "main.js": "/React-To-Red-Pandas/static/js/main.7b8635b5.js",
+    "main.css": "/React-To-Red-Pandas/static/css/main.87e27943.css",
+    "main.js": "/React-To-Red-Pandas/static/js/main.2de7397c.js",
     "static/js/453.7f2f1902.chunk.js": "/React-To-Red-Pandas/static/js/453.7f2f1902.chunk.js",
     "index.html": "/React-To-Red-Pandas/index.html",
-    "main.3e5511b3.css.map": "/React-To-Red-Pandas/static/css/main.3e5511b3.css.map",
-    "main.7b8635b5.js.map": "/React-To-Red-Pandas/static/js/main.7b8635b5.js.map",
+    "main.87e27943.css.map": "/React-To-Red-Pandas/static/css/main.87e27943.css.map",
+    "main.2de7397c.js.map": "/React-To-Red-Pandas/static/js/main.2de7397c.js.map",
     "453.7f2f1902.chunk.js.map": "/React-To-Red-Pandas/static/js/453.7f2f1902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e5511b3.css",
-    "static/js/main.7b8635b5.js"
+    "static/css/main.87e27943.css",
+    "static/js/main.2de7397c.js"
   ]
 }
