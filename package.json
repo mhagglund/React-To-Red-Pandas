@@ -1,6 +1,7 @@
 {
   "name": "react-to-red-pandas",
   "version": "0.1.0",
+  "homepage": "https://mhagglund.github.io/React-To-Red-Pandas/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
