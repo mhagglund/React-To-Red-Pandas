@@ -1,7 +1,9 @@
+import React from 'react';
+
 const Home = () => {
-    return(
+    return (
         <div>
-         Red Pandas are the best
+            Red Pandas are the best
         </div>
     );
 }
