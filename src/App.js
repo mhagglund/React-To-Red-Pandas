@@ -10,7 +10,7 @@ const App = () => {
         <h1>Red Pandas</h1>
       </header>
       <div className="App-navigation">
-        <a href="/">Home</a>
+        <a href="#/">Home</a>
         <a href="#/about">About</a>
       </div>
       <main className="App-content">
