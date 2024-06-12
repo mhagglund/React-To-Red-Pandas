@@ -6,7 +6,7 @@ const Home = () => {
             <h4>
                 Red Pandas are the best!
             </h4>
-            <img src="https://m.media-amazon.com/images/I/61BFSQrKoEL._AC_UF894,1000_QL80_.jpg" className="mw-100 px-2" />
+            <img src="https://qph.cf2.quoracdn.net/main-qimg-4cea4debaf5337e6021e2ad95f17f8c9" className="mw-100 px-2" />
         </>
     );
 };
