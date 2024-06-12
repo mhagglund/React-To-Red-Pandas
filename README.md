@@ -12,7 +12,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
 
@@ -21,3 +21,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+### `npm run deploy`
+
+Runs the predeploy and the deploy scripts to build and deploy the `gh-pages` branch to github pages.\
+This can be access here: https://mhagglund.github.io/React-To-Red-Pandas/
