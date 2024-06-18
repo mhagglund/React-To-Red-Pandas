@@ -11,13 +11,14 @@ const Navigation = () => {
     <Navbar expand="sm" className="bg-body-tertiary">
       <Container fluid>
         <Navbar.Brand href="#/" className="p-0">
-          <img src={runningPanda} alt=" panda gif" height={60} className="me-2" />Red Pandas
+          <img src={runningPanda} alt="panda gif" height={60} className="me-2" />Red Pandas
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#/">Home</Nav.Link>
             <Nav.Link href="#/about">About</Nav.Link>
+            <Nav.Link href="#/game">Game</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

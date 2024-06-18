@@ -1,0 +1,23 @@
+.board {
+  width: 80%;
+  height: 650px;
+  margin-bottom: 15px;
+  background-color: darkgray;
+  border-radius: 15px;
+  display: grid;
+  grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+
+.square {
+  cursor: pointer;
+  border: 6px solid gray;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkslateblue;
+}
+
+.square:hover {
+  background-color: slateblue;
+}
