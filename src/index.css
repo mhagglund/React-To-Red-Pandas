@@ -8,3 +8,8 @@ html {
 body{
   background-color: transparent;
 }
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: black;
+  font-weight: bold;
+}
